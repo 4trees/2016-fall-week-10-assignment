@@ -10,3 +10,8 @@
     fill:rgb(200,200,200);
     stroke:white;
 }
+.state{
+	fill:#333;
+    stroke:white;
+    stroke-width:.5px;
+}
